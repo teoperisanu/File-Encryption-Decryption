@@ -1,5 +1,4 @@
 # File-Encryption-Decryption
--Faculty Project-
 File Encryption/Decryption in 32-bit x86 Assembly Language
 
 This project encrypts or decrypts a file using two different algorithms. 
